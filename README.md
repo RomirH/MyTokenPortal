@@ -7,7 +7,7 @@ The website is live on https://cs396-project.herokuapp.com/
 
 *Website Preview:*
 
-![alt text](https://github.com/RomirH/MyTokenPortal/MyTokenPortal/MyTokenPortal/basicoutlook.png?raw=true)
+![alt text](https://github.com/RomirH/MyTokenPortal/blob/main/basicoutlook.png)
 
 *Features:*
 
