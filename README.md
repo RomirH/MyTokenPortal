@@ -11,7 +11,7 @@ The website is live on https://cs396-project.herokuapp.com/
 
 *Features:*
 
-![alt text](https://github.com/RomirH/MyTokenPortal/blob/master/info.png?raw=true)
+![alt text](https://github.com/RomirH/MyTokenPortal/master/info.png?raw=true)
 
 *Chart Options Example:*
 
