@@ -3,7 +3,7 @@ This project built on top of Node.js is a basic cryptocurrency information porta
 to collect and present data about a selected token in real time. It can be used to chart and track price movements, as well as get web alerts or email notifications when
 a specific price boundary is crossed. 
 
-The website is live on https://cs396-project.herokuapp.com/
+The website is live on https://mytokenportal.herokuapp.com/
 
 *Website Preview:*
 
